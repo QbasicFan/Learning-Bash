@@ -1,5 +1,10 @@
-
 #!/bin/bash
+
+# Program: Bash , Display basic network connections informations
+# GitHub : https://github.com/QbasicFan
+# Author : Sadman Phil
+
+
 function sep(){
 echo ------------------------------
 }
@@ -23,5 +28,3 @@ sep
 netstat -rn | awk ' { print $2 } ' 
 sep
 grep --color nameserver /etc/resolv.conf
-
-
