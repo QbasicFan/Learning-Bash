@@ -4,7 +4,7 @@
 This repository is use to store some basic bash scripts , so I can refer to it to build more complex applications . As I am recently interested in Unix/Linux system administrator , knowledge of Bash is a very important skill . 
 
 Script listing : 
-SimpleScript1.sh (Display basic network connections informations)
+(1) SimpleScript1.sh (Display basic network connections informations)
 
 
 
